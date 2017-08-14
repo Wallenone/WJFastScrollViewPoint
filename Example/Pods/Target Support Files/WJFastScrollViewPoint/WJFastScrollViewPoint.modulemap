@@ -1,0 +1,6 @@
+framework module WJFastScrollViewPoint {
+  umbrella header "WJFastScrollViewPoint-umbrella.h"
+
+  export *
+  module * { export * }
+}
